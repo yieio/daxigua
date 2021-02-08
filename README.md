@@ -19,3 +19,7 @@ Chrome´ò¿ªÓÎÏ·http://g.vsane.com/game/552/£¬F12¿ªÆô¿ª·¢Õß¹¤¾ß£¨Èç¹û²»ĞĞ£¬¿ÉÒÔÏÈÔ
 ![image](E96DA5C92E714DA496982B0BC93B150D)
 
 ËùÓĞµÄÍ¼Æ¬ºÍÒôĞ§ËØ²Ä¶¼ÔÚresÄ¿Â¼ÀïÃæÁË¡£srcÄ¿Â¼ÀïÃæÊÇ³ÌĞòµÄÂß¼­´úÂëproject.js¡£
+
+## ÍêÕûÎÄµµ
+
+[´Ó0¿ªÊ¼ÓÃCocosCreatorĞ´¸öºÏ³É´óÎ÷¹Ï](http://note.youdao.com/noteshare?id=13072369cbf3faa350010e6faaefc84d&sub=B84EF80475D04FEC807D1EFB801F4F06)
